@@ -21,7 +21,7 @@ If you have problems or something you dont know, you should proactively ask them
 2. Submit the information in **list_record**.
 3.  After using the item, submit the information again in **list_record**.
 
-The information should contain your name, the item's name, the date and so on.<br>
+The information should contain your name, the item's name, the date and so on.
 For example:<br>
 Before you use
 | people | item | data | project | kinds | return |
