@@ -17,19 +17,18 @@ If you have problems or something you dont know, you should proactively ask them
 
 
 ### How to use
-1. Check the items list in **list**, and find the item you want to use.
+1. Check the items list in **list**, and find the item you want to use.**(You can not change the items in list)**
 2. Submit the information in **list_record**.
 3.  After using the item, submit the information again in **list_record**.
 
-**The information should contain your name, the item's name, the date and so on.**<br>
+The information should contain your name, the item's name, the date and so on.<br>
 For example:<br>
 Before you use
 | people | item | data | project | kinds | return |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | xiaolong | arduino uno | 2021/03/22 | black arm | arduino | No |
-<br>
-After using
 
+After using<br>
 | people | item | data | project | kinds | return |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | xiaolong | arduino uno | 2021/03/22 | black arm | arduino | Yes |
